@@ -5,7 +5,6 @@
 ## 💪 Overview
 
 Earth is a professional blockchain 😎developer involved in many blockchain startups like Top Network, Veem, Privi. He has personally released many successful 📦 Dapps, Defi,  NFT marketplaces, crypto Games on several networks.
-You can see some of the crypto projects he developed in his portfolio.
 
 He has also mastered Web game engines like Phaser.js, Three.js, and Babylon.js.
 
