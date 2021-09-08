@@ -4,6 +4,45 @@
 
 ## 💪 Overview
 
+Earth is a professional blockchain 😎developer involved in many blockchain startups like Top Network, Veem, Privi. He has personally released many successful 📦 Dapps, Defi,  NFT marketplaces, crypto Games on several networks.
+You can see some of the crypto projects he developed in his portfolio.
+
+He has also mastered Web game engines like Phaser.js, Three.js, and Babylon.js.
+
+He is also a senior front-end developer with seven years of experience.
+He has mastered React.js and has rich experience with Vue.js and Angular.js.
+
+📦 Deliverables
+    DApps, NFT Marketplace, Smart contracts, Trading bots, ICO, DEX, 
+    Blockchain consultancy,
+    Crypto games (ex. NFT games), 
+    Frontend with React.js and Vue.js
+
+📕 Programming languages
+     Javascript, Rust, Solidity, Node.js, C++, Python, PHP, HTML, CSS, XML
+
+🎏 Frontend stacks
+     React.js, Vue.js, Seed (Rust)
+     MaterialUI, Material Bootstrap, Tailwind.css, Pure.css, Figma
+
+⚒️ Blockchain stacks
+     Ethereum, Binance, Terra, Proton
+     Solidity, Truffle, CosmWasm, web3.js
+
+🛡️ Game engines
+     Phaser.js, Babylon.js, Three.js, 
+
+🧲 Others
+    Firebase, AWS, Graphql, Swagger, MicroServices, Azure, MongoAtlas
+    Docker, Jenkins, CircleCI, GitLab, Selenium
+    MySql, MongoDB, Sqlite
+    UML, FlowChart
+    Linux, macOS, iOS, Android
+
+If you are going to build a blockchain project, don't hesitate to get in touch with Earth. He is open to working now.
+
+
+
 <p>
   <a href="https://github.com/arth04190419/earth04190419" >
   
