@@ -1,6 +1,6 @@
 <h1 align="center">Hi, there! 👋</h1>
 
-<h3 align="center">  Thanks for reaching out to me!  </h3>
+<h3 align="center">  THANKS FOR REACHING OUT TO ME.  </h3>
 
 ## 💪 Overview
 
