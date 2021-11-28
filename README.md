@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Chrise! Thanks for reaching out to me again 👋</h1>
+<h1 align="center">Hi, Chris Rzepka! Thanks for reaching out to me again 👋</h1>
 
 <h3 align="center">  THANKS FOR REACHING OUT TO ME.  </h3>
 
